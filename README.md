@@ -1,2 +1,2 @@
 # dataSetsAndCode
-models require data. let me know when you need it.
+Models require data. Let me know when you need it.
